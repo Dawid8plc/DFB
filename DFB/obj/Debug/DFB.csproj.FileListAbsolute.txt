@@ -1,0 +1,9 @@
+D:\Projects\DawidsFileBrowser\DFB\DFB\bin\Debug\DFB.exe
+D:\Projects\DawidsFileBrowser\DFB\DFB\bin\Debug\DFB.pdb
+D:\Projects\DawidsFileBrowser\DFB\DFB\obj\Debug\DFB.csprojAssemblyReference.cache
+D:\Projects\DawidsFileBrowser\DFB\DFB\obj\Debug\DFB.Properties.Resources.resources
+D:\Projects\DawidsFileBrowser\DFB\DFB\obj\Debug\DFB.csproj.GenerateResource.cache
+D:\Projects\DawidsFileBrowser\DFB\DFB\obj\Debug\DFB.csproj.CoreCompileInputs.cache
+D:\Projects\DawidsFileBrowser\DFB\DFB\obj\Debug\DFB.exe
+D:\Projects\DawidsFileBrowser\DFB\DFB\obj\Debug\DFB.pdb
+D:\Projects\DawidsFileBrowser\DFB\DFB\obj\Debug\DFB.Form1.resources
